@@ -1,0 +1,21 @@
+.flash-pack-holder{
+    width: 50%;
+    margin: 0 auto;
+    padding: 35px;
+    border: 1px #ccc solid;
+    height: 60rem;
+    border-radius: 1rem;
+    background: #02c3b1;
+    color: #fff;
+    font-size: 3rem;
+}
+.question, .answer{
+  display: block
+}
+.answer{
+  font-size: 2rem;
+  margin-top: 5rem;
+}
+.btn-pack{
+    background: #087d78;
+}
